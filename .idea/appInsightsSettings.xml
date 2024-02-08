@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.project.posebook" />
+                  <option name="mobileSdkAppId" value="1:783208732756:android:e6ef114106b02eee28f5c1" />
+                  <option name="projectId" value="posebook1" />
+                  <option name="projectNumber" value="783208732756" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

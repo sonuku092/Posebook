@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "783208732756",
+    "project_id": "posebook1",
+    "storage_bucket": "posebook1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783208732756:android:e6ef114106b02eee28f5c1",
+        "android_client_info": {
+          "package_name": "com.project.posebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG0mrhD-EaCScZQrQFDSbKy8OazIMW4rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
